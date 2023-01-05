@@ -1,0 +1,23 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "This repository contains resources for learning GraphQL, a query language for your API.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyond88/learn-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyond88/learn-graphql/issues"
+  },
+  "homepage": "https://github.com/beyond88/learn-graphql#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
